@@ -19,7 +19,7 @@ Often when I start a book I am initially unsure what
 chapters I will be creating or in what order they will be in. I can change this easily by either using Linux symlinks
 or moving content around the folders.
 
-Content folders are named by their purpose (intro, toc, index, chapter, etc.) in alpha-numeric order rather than with a title or content for purposes of sort ordering.
+Content folders are named by their purpose (intro, toc, index, chapter, etc.) in alpha-numeric order rather than with a title or content for purposes of sort ordering. The chapter title will go into the Markdown.
 
 /home/directory/mybooks/book-name (book name is likely a working title)
 
