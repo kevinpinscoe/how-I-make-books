@@ -16,10 +16,10 @@ I use Pandoc for the compilation. https://pandoc.org/
 # Organization
 
 Often when I start a book I am initially unsure what
-chapters I will be creating or sometime in what order they will be in. I can change this easily by either using Linux symlinks
+chapters I will be creating or in what order they will be in. I can change this easily by either using Linux symlinks
 or moving content around the folders.
 
-Content folders look like are on purpose not named with a title or content other than an ordering sort:
+Content folders are named by their purpose (intro, toc, index, chapter, etc.) in alpha-numeric order rather than with a title or content for purposes of sort ordering.
 
 /home/directory/mybooks/book-name (book name is likely a working title)
 
