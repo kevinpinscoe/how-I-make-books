@@ -40,7 +40,7 @@ If you look at build.sh you can see all this gets sourced in the proper order.
 
 Markdown does not really have include statements so this is the way I have sorted it out.
 
-There are many other tools out there to solve this problem such as https://github.com/knennigtri/merge-markdown but tis works for my simple needs.
+There are many other tools out there to solve this problem such as https://github.com/knennigtri/merge-markdown but this works for my simple needs.
 
 The result is a PDF in the root directory /mybooks/[book-name].
 
